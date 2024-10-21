@@ -1,0 +1,1 @@
+{"targets":[{"sources":["jsc.cc"],"target_name":"jsc"}]}
